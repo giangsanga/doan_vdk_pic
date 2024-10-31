@@ -1,2 +1,3 @@
 ﻿# doan_vdk_pic
-#sử dụng MPLAB IDE
+#use MPLAB IDE v5.20
+#use Pic16f877a
